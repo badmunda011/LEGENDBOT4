@@ -7,7 +7,7 @@
     "legendbot",
     "productivity"
   ],
-  "repository": "https://github.com/Officialgovindmp/LEGENDBOT",
+  "repository": "https://github.com/badmunda011/LEGENDBOT4",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -74,7 +74,7 @@
   "addons": [{
     "plan": "heroku-postgresql",
     "options": {
-      "version": "12"
+      "version": "15"
    }
   }],
   "buildpacks": [{
